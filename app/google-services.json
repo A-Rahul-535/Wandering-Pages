@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426548387712",
+    "firebase_url": "https://wandering-pages-default-rtdb.firebaseio.com",
+    "project_id": "wandering-pages",
+    "storage_bucket": "wandering-pages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426548387712:android:f9e5f08205c48f2a986b65",
+        "android_client_info": {
+          "package_name": "bits.pilani.hyd.wanderingpages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426548387712-gb7l51s4fppaml34ig28s85ndgv1rfpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bits.pilani.hyd.wanderingpages",
+            "certificate_hash": "b8426c63f2d14157bf826fc17ad31c1b7cd15465"
+          }
+        },
+        {
+          "client_id": "426548387712-deevfqqhhrs99o3up4aedniht11ig1hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIxCtEj3RWXFD4XgDBNFDsmC0CGLQ5Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426548387712-deevfqqhhrs99o3up4aedniht11ig1hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
